@@ -1,0 +1,67 @@
+//restaurant8 = new Restoran
+            //{
+            //    RestaurantName = "Seven Bar and Restaurant",
+            //    RestaurantCategory = "Морепродукты, Международная, Гриль, Современная, Фьюжн, Стейк-хаус",
+            //    //dishesDay = "https://www.sevenalmaty.com/",
+            //    rating = "5.0",
+            //    workingHours = "Закрыто"
+
+            //};
+            //restaurant9 = new Restoran
+            //{
+            //    RestaurantName = "Monroe",
+            //    RestaurantCategory = "Современная",
+            //    //dishesDay = "https://www.tripadvisor.ru/Restaurant_Review-g298251-d6203342-Reviews-Monroe-Almaty.html",
+            //    rating = "4.0",
+            //    workingHours = "с 11:00 до 00:00"
+            //};
+            //restaurant10 = new Restoran
+            //{
+            //    RestaurantName = "Скай Лаунж",
+            //    RestaurantCategory = "Бар, Средиземноморская, Европейская, Паб, Центральноевропейская",
+            //    //dishesDay = "https://www.ritzcarlton.com/en/hotels/kazakhstan/almaty/dining/sky-lounge",
+            //    rating = "4.5",
+            //    workingHours = "с 10:00 до 23:00"
+            //};
+
+            //restaurant11 = new Restoran
+            //{
+            //    RestaurantName = "Тай Ресторан",
+            //    RestaurantCategory = "Азиатская, Японская, Тайская",
+            //    //dishesDay = "https://www.tripadvisor.ru/Restaurant_Review-g298251-d1884047-Reviews-Thai_Restaurant-Almaty.html",
+            //    rating = "3.5",
+            //    workingHours = "с 12:00 до 23:00"
+            //};
+            //restaurant12 = new Restoran
+            //{
+            //    RestaurantName = "Чайхана NAVAT",
+            //    RestaurantCategory = "Европейская, Винный бар, Восточноевропейская, Центральноазиатская, Узбекская",
+            //    //dishesDay = "http://navat.com.kz/nash-navat/ ,https://www.tripadvisor.ru/Restaurant_Review-g298251-d20206153-Reviews-Navat-Almaty.html",
+            //    rating = "5.0",
+            //    workingHours = "с 10:00 до 22:00"
+            //};
+            //restaurant13 = new Restoran
+            //{
+            //    RestaurantName = "Горный",
+            //    RestaurantCategory = "Современная",
+            //    //dishesDay = "https://tau-dastarkhan.kz/, https://www.tripadvisor.ru/Restaurant_Review-g298251-d6203695-Reviews-Gorny-Almaty.html",
+            //    rating = "4.0",
+            //    workingHours = "с 12:00 до 00:00"
+
+            //};
+            //restaurant14 = new Restoran
+            //{
+            //    RestaurantName = "Le Dome",
+            //    RestaurantCategory = "Французская, Японская",
+            //    //dishesDay = "https://www.tripadvisor.ru/Restaurant_Review-g298251-d4456067-Reviews-Le_Dome-Almaty.html",
+            //    rating = "4.0",
+            //    workingHours = "с 12:00 до 02:00"
+            //};
+            //restaurant15 = new Restoran
+            //{
+            //    RestaurantName = "Любовь и Голуби",
+            //    RestaurantCategory = "Русская, Украинская, Грузинская, Азербайджанская",
+            //    //dishesDay = "https://www.tripadvisor.ru/Restaurant_Review-g298251-d21010556-Reviews-Lyubov_i_Golubi-Almaty.html",
+            //    rating = "4.0",
+            //    workingHours = "с 11:00 до 00:00"
+            //};
